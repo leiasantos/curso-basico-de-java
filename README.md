@@ -1,9 +1,5 @@
-# FundamentosJava
-* Curso de Fundamentos Java 
-
-* Professor Isidro
-
-* 100 horas de aulas online 
+<h1>* Curso de Fundamentos Java </h1>
+<p>Curso administrado por Professor Isidro, 100 horas de aulas online </p>
 
 https://www.professorisidro.com.br/curso/fundamentos-de-java/
 
